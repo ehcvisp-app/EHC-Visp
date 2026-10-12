@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "EHC Visp",
-    "slug": "ehc-visp",
+       "slug": "ehc-visp-9szulydwxzzaxja9yqqct",
+       "owner": "ehc-visp-sport-ag",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
